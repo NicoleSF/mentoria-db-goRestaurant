@@ -6,17 +6,27 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "server": "json-server --watch db.json --port 3333"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-regular-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@types/node": "20.4.8",
     "@types/react": "18.2.18",
     "@types/react-dom": "18.2.7",
+    "@vanilla-extract/css": "^1.12.0",
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.13",
+    "json-server": "^0.17.3",
     "next": "13.4.13",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@vanilla-extract/next-plugin": "^2.2.2"
   }
 }
