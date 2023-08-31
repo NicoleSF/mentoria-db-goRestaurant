@@ -4,55 +4,55 @@
         "title": "Ao Molho Funghi",
         "description": "Macarrão ao molho branco, funghi e cheiro verde das montanhas.",
         "price": 19.90,
-        "image": "./public/images/foto.png"
+        "image": "/images/massaFunghi.svg"
     },
     {
         "id": 2,
         "title": "Veggie",
         "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
         "price": 19.90,
-        "image": "./public/images/Veggie.svg"
+        "image": "/images/Veggie.svg"
     },
     {
         "id": 3,
         "title": "A La Camarón",
         "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
         "price": 19.90,
-        "image": "./public/images/Camarão.svg"
+        "image": "/images/Camarão.svg"
     },
     {
         "id": 4,
         "title": "Cenoura e Ervilha",
         "description": "Macarrão com cenoura e ervilha.",
         "price": 19.90,
-        "image": "./public/images/Veggie.svg"
+        "image": "/images/Veggie.svg"
     },
     {
         "id": 5,
         "title": "Camarão ao Molho Branco",
         "description": "Macarrão com molho branco e camarão a milanesa.",
         "price": 19.90,
-        "image": "./public/images/Camarão.svg"
+        "image": "/images/Camarão.svg"
     },
     {
         "id": 6,
         "title": "Molho de Cogumelos",
         "description": "Macarrão com molho de cogumelos salteados.",
         "price": 19.90,
-        "image": "./public/images/massaFunghi.svg"
+        "image": "/images/massaFunghi.svg"
     },
     {
         "id": 7,
         "title": "Camarão e Cebola Crispy",
         "description": "Macarrão com molho vermelho, cebola crispy e camarão.",
         "price": 19.90,
-        "image": "./public/images/Camarão.svg"
+        "image": "/images/Camarão.svg"
     },
     {
         "id": 8,
         "title": "Massa vegana",
         "description": "Macarrão integral com tofu e molho vegetal.",
         "price": 19.90,
-        "image": "./public/images/Veggie.svg"
+        "image": "/images/Veggie.svg"
     }
 ]
