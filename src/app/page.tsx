@@ -25,7 +25,7 @@ export default async function Home() {
       {foods.map((food: FoodProps) => (
         <>
           <li key={food.id}>{food.title}</li>
-          <Image src={food.image} alt="pratos" width={200} height={100} />
+          <Image src={food.image} alt="prato" width={200} height={100} />
         </>
       ))}
     </div>
