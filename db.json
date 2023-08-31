@@ -4,7 +4,7 @@
         "title": "Ao Molho Funghi",
         "description": "Macarrão ao molho branco, funghi e cheiro verde das montanhas.",
         "price": 19.90,
-        "image": "./public/images/massaFunghi.svg"
+        "image": "./public/images/foto.png"
     },
     {
         "id": 2,
